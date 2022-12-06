@@ -41,7 +41,7 @@
 
 .swal2-title,
 .swal2-content {
-    color: rgb(252, 9, 9) !important;
+    color: rgb(255, 0, 212) !important;
 }
 
 .swal2-popup {
@@ -49,26 +49,26 @@
 }
 
 header h2 {
-    font-family: 'Georgia, serif';
+    font-family: 'Pacifico';
     font-size: 50px;
     text-align: center;
     margin-bottom: 30px;
 }
 
 header h4 {
-    font-family: 'Georgia, serif';
+    font-family: 'Pacifico';
     text-align: center;
 }
 
 @media only screen and (max-width: 500px) {
     header h2 {
-        font-family: 'Georgia, serif';
+        font-family: 'Pacifico';
         font-size: 45px;
         text-align: center;
         margin-bottom: 30px;
     }
     header h4 {
-        font-family: 'Georgia, serif';
+        font-family: 'Pacifico';
         text-align: center;
         padding: 15px;
     }
