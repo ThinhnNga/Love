@@ -1,12 +1,9 @@
 const CONFIG = {
-    titleWeb: "Gửi cho Linh Nga <3",
-    introTitle: 'Linh Nga yêu dấu!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Gửi cho người nào đó",
+    introTitle: 'Hình như tớ thích 1 người rồi áaaa!',
+    introDesc: `Cô ấy khom như gu tớ, hay khóc nè, hay overthinking, lại còn là 1 nữ cường nựa... nhma cô ấy gất là dễ thương nhaaaaaa với quan tâm tớ nựa, xỉu mất hoi écccc`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng tôi đã yêu em ngay từ cái nhìn đầu tiên 😙',
+    title: 'Cậu biết hem, tớ thích cô ấy vì cô ấy y như tớ hồi đấy vậy, đềuu mất niềm tin vào tình yêu, aydaaaa',
     desc: 'Phải chăng em đã say tôi ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
